@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0f9f0afb3d755e7468ea6bdc7826204c
+timeCreated: 1516708294
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameOverText: {fileID: 114624996336910742, guid: 51cfdb37513f2c14f821fc80fb183e17,
+      type: 2}
+  - healthbar: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
